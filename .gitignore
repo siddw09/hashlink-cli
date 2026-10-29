@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.a
+*.so
+*.out
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local database files
+data/*.csv
+data/*.db
+data/*.bak
+!data/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
