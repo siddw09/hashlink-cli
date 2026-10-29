@@ -1,4 +1,4 @@
-# HashLink CLI — University Practical Examination & Viva Preparation Guide
+# HashLink CLI — 
 
 This guide prepares you to answer theoretical and implementation questions during your Data Structures & Algorithms (ADSA) practical examination or project presentation.
 
